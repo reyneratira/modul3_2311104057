@@ -1,0 +1,10 @@
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\bin\Debug\Modul3_2311104057_jurnal.exe.config
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\bin\Debug\Modul3_2311104057_jurnal.exe
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\bin\Debug\Modul3_2311104057_jurnal.pdb
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\obj\Debug\Modul3_2311104057_jurnal.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\obj\Debug\Modul3_2311104057_jurnal.Form1.resources
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\obj\Debug\Modul3_2311104057_jurnal.Properties.Resources.resources
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\obj\Debug\Modul3_2311104057_jurnal.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\obj\Debug\Modul3_2311104057_jurnal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\obj\Debug\Modul3_2311104057_jurnal.exe
+C:\Users\ASUS TUF\source\repos\Modul3_2311104057_jurnal\Modul3_2311104057_jurnal\obj\Debug\Modul3_2311104057_jurnal.pdb
