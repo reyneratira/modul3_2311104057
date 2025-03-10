@@ -41,6 +41,7 @@
             this.button0 = new System.Windows.Forms.Button();
             this.buttonPlus = new System.Windows.Forms.Button();
             this.buttonEquals = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblResult
@@ -49,7 +50,7 @@
             this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResult.Location = new System.Drawing.Point(321, 40);
             this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(117, 39);
+            this.lblResult.Size = new System.Drawing.Size(111, 38);
             this.lblResult.TabIndex = 0;
             this.lblResult.Text = "HASIL";
             // 
@@ -185,11 +186,21 @@
             this.buttonEquals.UseVisualStyleBackColor = true;
             this.buttonEquals.Click += new System.EventHandler(this.buttonEquals_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(353, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(94, 16);
+            this.label1.TabIndex = 13;
+            this.label1.Text = "KALKULATOR";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonEquals);
             this.Controls.Add(this.buttonPlus);
             this.Controls.Add(this.button0);
@@ -225,6 +236,7 @@
         private System.Windows.Forms.Button button0;
         private System.Windows.Forms.Button buttonPlus;
         private System.Windows.Forms.Button buttonEquals;
+        private System.Windows.Forms.Label label1;
     }
 }
 
